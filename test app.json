@@ -218,7 +218,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
     "type": "1",
     "name": "Server 6",
     "flagURL": "https://www.vpngate.net/images/flags/PL.png",
-    "configFile": "
+    "configFile": "client
 dev tun
 proto tcp
 sndbuf 0
